@@ -1,3 +1,3 @@
-1. *linux*
-2. *d3*
-3. **latex**
+*linux*
+_d3_
+**latex**
